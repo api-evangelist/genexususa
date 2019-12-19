@@ -1,0 +1,45 @@
+{
+    "name": "GeneXusUSA",
+    "description": "For over 30 years, GeneXus has empowered developers, engineers, and product managers worldwide to create and maintain simple, cross-platform, elegant software that their companies need, without the hassles of messy coding, and without spending a fortun...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8749-genexususa.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "women in tech"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/genexususa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GeneXusUSA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8749-genexususa.jpg",
+            "humanURL": "https:\/\/genexususa.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/genexususa-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/genexususa.com\/blog\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GeneXusUSA"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/genexususa.com\/"
+        }
+    ]
+}
